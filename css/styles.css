@@ -31,13 +31,6 @@ a {
   color: #434455;
 }
 
-.adderss-list {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
-
 .address-list-item {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -137,6 +130,7 @@ p {
 
 .our-team {
   text-transform: capitalize;
+  background-color: #ffffff;
 }
 
 .team-list {
