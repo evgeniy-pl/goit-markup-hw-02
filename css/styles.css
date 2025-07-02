@@ -130,12 +130,9 @@ p {
 
 .our-team {
   text-transform: capitalize;
-  background-color: #ffffff;
 }
 
-.team-list {
-  background-color: #ffffff;
-}
+
 
 .portfolio {
   background-color: #ffffff;
@@ -143,6 +140,10 @@ p {
 
 .portfolio-item {
   text-transform: capitalize;
+  background-color: #ffffff;
+}
+
+.team-list-item {
   background-color: #ffffff;
 }
 
